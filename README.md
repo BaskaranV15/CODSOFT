@@ -39,3 +39,15 @@ Train the chosen model(s) on the training set, optimizing hyperparameters for be
 ## Model Evaluation:
 Evaluate the model(s) on the unseen testing set using metrics like Mean Squared Error (MSE), Root Mean Squared Error (RMSE), or Mean Absolute Error (MAE).
 Compare the performance of different models and select the one with the best results.
+
+
+## Title: Iris Flower Classification - Machine Learning Project
+
+## Description:
+
+This project implements a machine learning model to classify Iris flowers into three species (Setosa, Versicolor, Virginica) based on their sepal and petal measurements. The Iris flower dataset, a widely used introductory classification task, is employed for training and evaluation.
+
+## Features:
+Utilizes the pandas,scikit-learn library for data manipulation, model training, and evaluation.
+I Use K-means Cluster
+Supports various classification algorithms (e.g., Support Vector Machines, K-Nearest Neighbors, Decision Trees, Random Forest).
