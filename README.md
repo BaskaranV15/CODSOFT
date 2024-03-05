@@ -1,7 +1,7 @@
 # CODSOFT
 ## DATA SCIENCE
 ## Batch - FEB BATCH A33
-## Title: Titanic Passenger Survival Prediction
+## 1 Title: Titanic Passenger Survival Prediction
 ## Description:
 This project builds a machine learning model to predict passenger survival on the Titanic disaster, using the classic Titanic dataset.
 ### Data Acquisition: 
@@ -18,7 +18,7 @@ notebooks: This folder will contain Jupyter Notebooks (or Python scripts) for yo
 Kaggle Titanic Competition: https://www.kaggle.com/competitions/titanic
 Scikit-learn documentation: https://scikit-learn.org/
 
-## Title:Sales Prediction with Python
+## 2 Title:Sales Prediction with Python
 This repository implements sales prediction models using Python libraries like pandas, NumPy, and scikit-learn. The goal is to forecast future sales based on historical data and relevant factors influencing customer behavior.
 ## Description:
 This project builds a machine learning model to predict sales, using the prediction dataset.
@@ -41,7 +41,7 @@ Evaluate the model(s) on the unseen testing set using metrics like Mean Squared 
 Compare the performance of different models and select the one with the best results.
 
 
-## Title: Iris Flower Classification - Machine Learning Project
+## 3 Title: Iris Flower Classification - Machine Learning Project
 
 ## Description:
 
