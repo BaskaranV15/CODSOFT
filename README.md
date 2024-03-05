@@ -1,5 +1,6 @@
 # CODSOFT
 ## DATA SCIENCE
+## Batch - FEB BATCH A33
 ## Title: Titanic Passenger Survival Prediction
 ## Description:
 This project builds a machine learning model to predict passenger survival on the Titanic disaster, using the classic Titanic dataset.
