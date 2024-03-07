@@ -1,5 +1,4 @@
-# CODSOFT
-## DATA SCIENCE
+# CODSOFT  DATA SCIENCE  - INTERN
 ## Batch - FEB BATCH A33
 ## 1 Title: Titanic Passenger Survival Prediction
 ## Description:
